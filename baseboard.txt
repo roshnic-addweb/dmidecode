@@ -1,0 +1,19 @@
+Handle: 0x0011
+DMI type: 2, 15 bytes
+Base Board Information: 1
+Manufacturer: LENOVO
+Product Name: 4284D46
+Version: Not Available
+Serial Number: 1ZKBX1A861T
+Asset Tag: Not Available
+Features: Board is a hosting board, Board is replaceable
+Location In Chassis: Not Available
+Chassis Handle: 0x0000
+Type1: Motherboard
+Contained Object Handles: 0
+Handle: 0x002B
+DMI type: 10, 6 bytes
+On Board Device Information: 2
+Type2: Other
+Status: Disabled
+Description: IBM Embedded Security hardware

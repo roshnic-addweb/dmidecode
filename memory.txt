@@ -1,0 +1,80 @@
+Memory Device: 1
+Handle: 0x0006
+DMI type: 17, 28 bytes
+Array Handle: 0x0005
+Error Information Handle: Not Provided
+Total Width: 64 bits
+Data Width: 64 bits
+Size: 4096 MB
+Form Factor: SODIMM
+Set: None
+Locator: ChannelA-DIMM0
+Bank Locator: BANK 0
+Type: DDR3
+Type Detail: Synchronous
+Speed: 1333 MT/s
+Manufacturer: Samsung
+Serial Number: 00312189
+Asset Tag: 9876543210
+Part Number: M471B5273DH0-CH9
+Rank: Unknown
+Memory Device: 2
+Handle: 0x0007
+DMI type: 17, 28 bytes
+Array Handle: 0x0005
+Error Information Handle: Not Provided
+Total Width: 64 bits
+Data Width: 64 bits
+Size: 4096 MB
+Form Factor: SODIMM
+Set: None
+Locator: ChannelA-DIMM1
+Bank Locator: BANK 1
+Type: DDR3
+Type Detail: Synchronous
+Speed: 1333 MT/s
+Manufacturer: Samsung
+Serial Number: 00960EC3
+Asset Tag: 9876543210
+Part Number: M471B5273CH0-CH9
+Rank: Unknown
+Memory Device: 3
+Handle: 0x0008
+DMI type: 17, 28 bytes
+Array Handle: 0x0005
+Error Information Handle: Not Provided
+Total Width: 64 bits
+Data Width: 64 bits
+Size: 4096 MB
+Form Factor: SODIMM
+Set: None
+Locator: ChannelB-DIMM0
+Bank Locator: BANK 2
+Type: DDR3
+Type Detail: Synchronous
+Speed: 1333 MT/s
+Manufacturer: Samsung
+Serial Number: E150022C
+Asset Tag: 9876543210
+Part Number: M471B5273CH0-YK0
+Rank: Unknown
+Memory Device: 4
+Handle: 0x0009
+DMI type: 17, 28 bytes
+Array Handle: 0x0005
+Error Information Handle: Not Provided
+Total Width: 64 bits
+Data Width: 64 bits
+Size: 4096 MB
+Form Factor: SODIMM
+Set: None
+Locator: ChannelB-DIMM1
+Bank Locator: BANK 3
+Type: DDR3
+Type Detail: Synchronous
+Speed: 1333 MT/s
+Manufacturer: Samsung
+Serial Number: E150022C
+Asset Tag: 9876543210
+Part Number: M471B5273CH0-YK0
+Rank: Unknown

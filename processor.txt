@@ -1,0 +1,26 @@
+Handle: 0x0001
+DMI type: 4, 42 bytes
+	Socket Designation: CPU
+	Type: Central Processor
+	Family: Core i7
+	Manufacturer: Intel(R) Corporation
+	ID: A7 06 02 00 FF FB EB BF
+	Signature: Type 0, Family 6, Model 42, Stepping 7
+	Flags: FPU (Floating-point unit on-chip), VME (Virtual mode extension), DE (Debugging extension), PSE (Page size extension), TSC (Time stamp counter), MSR (Model specific registers), PAE (Physical address extension), MCE (Machine check exception), CX8 (CMPXCHG8 instruction supported), APIC (On-chip APIC hardware supported), SEP (Fast system call), MTRR (Memory type range registers), PGE (Page global enable), MCA (Machine check architecture), CMOV (Conditional move instruction supported), PAT (Page attribute table), PSE-36 (36-bit page size extension), CLFSH (CLFLUSH instruction supported), DS (Debug store), ACPI (ACPI supported), MMX (MMX technology supported), FXSR (FXSAVE and FXSTOR instructions supported), SSE (Streaming SIMD extensions), SSE2 (Streaming SIMD extensions 2), SS (Self-snoop), HTT (Multi-threading), TM (Thermal monitor supported), PBE (Pending break enabled)
+	Version: Intel(R) Core(TM) i7-2720QM CPU @ 2.20GHz
+	Voltage: 1.2 V
+	External Clock: 100 MHzhttp://127.0.0.1:5000/processor
+	Max Speed: 2200 MHz
+	Current Speed: 2200 MHz
+	Status: Populated, Enabledhttp://127.0.0.1:5000/processor
+	Upgrade: ZIF Socket
+	L1 Cache Handle: 0x0002
+	L2 Cache Handle: 0x0003
+	L3 Cache Handle: 0x0004
+	Serial Number: Not Supported by CPU
+	Asset Tag: None
+	Part Number: None
+	Core Count: 4
+	Core Enabled: 4
+	Thread Count: 8
+	Characteristics: 64-bit capable
